@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Simple application to match people based on answers to a survey",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sd-ontario/FriendFinder.git"
+  },
+  "author": "Stephen Dawe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sd-ontario/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/sd-ontario/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
